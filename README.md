@@ -29,4 +29,7 @@ Functional testing involves verifying that CRUD (Create, Read, Update, Delete) o
 
 Contributions are welcome! Please fork this repository and submit a pull request.
 
+## More on
+https://medium.com/@kanchiatwar/database-schema-testing-ensuring-data-integrity-and-structure-fed29af47097
+
 
